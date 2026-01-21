@@ -1,4 +1,4 @@
-# Hi there, I'm Ivan! 👋
+# Hi there, I'm Ivan!
 
 I'm a developer passionate about building web and mobile applications. I enjoy working with full-stack technologies and exploring new frameworks to solve real-world problems.
 
