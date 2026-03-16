@@ -79,8 +79,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybunnn-dev&layout=compact&theme=radical" height="150" alt="languages graph" />
   
   <br/>
-
+  <br />
   <img src="https://streak-stats.demolab.com?user=ybunnn-dev&theme=radical" alt="GitHub Streak" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybunnn-dev&theme=radical&area=true" alt="Activity Graph" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybunnn-dev&bg_color=0D1117&color=ffffff&line=279EFF&point=328E6E&area=true&hide_border=true" width="100%" alt="activity graph" />
 </div>
