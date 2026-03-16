@@ -29,13 +29,13 @@
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart" /><br/>Dart
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="80">
       <a href="https://www.figma.com/">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /><br/>Figma
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://flutter.dev">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter" /><br/>Flutter
@@ -46,8 +46,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br/>HTML5
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.java.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br/>Java
@@ -58,13 +56,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br/>JS
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://laravel.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" /><br/>Laravel
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.linux.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br/>Linux
@@ -97,13 +95,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br/>PHP
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://reactjs.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /><br/>React
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.sqlite.org/">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite" /><br/>SQLite
@@ -114,16 +112,12 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" /><br/>Tailwind
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.typescriptlang.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br/>TS
       </a>
     </td>
-    <td></td>
-    <td></td>
-  </tr>
+    <td></td> </tr>
 </table>
 <div align="center">
 
