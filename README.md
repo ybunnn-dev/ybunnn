@@ -128,9 +128,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ybunnn-dev&theme=radical" width="49%" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=ybunnn-dev&show_icons=true&theme=radical&hide_rank=false&show=prs_merged,reviews" width="49%" alt="stats graph" />
-
-  <br/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybunnn-dev&layout=compact&theme=radical" width="98.5%" alt="languages graph" />
 
   <br/>
