@@ -76,12 +76,14 @@
 
 <div align="left">
 
-  <img src="https://streak-stats.demolab.com?user=ybunnn-dev&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ybunnn-dev&show_icons=true&theme=radical&hide_rank=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybunnn-dev&layout=compact&theme=radical" height="150" alt="languages graph" />
-  
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=ybunnn-dev&theme=radical" height="150" alt="GitHub Streak" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=ybunnn-dev&show_icons=true&theme=radical&hide_rank=true" height="150" alt="stats graph" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybunnn-dev&layout=compact&theme=radical" height="150" alt="languages graph" />
+  </div>
   <br/>
-  <br />
-  
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybunnn-dev&bg_color=0D1117&color=ffffff&line=279EFF&point=328E6E&area=true&hide_border=true" width="100%" alt="activity graph" />
 </div>
