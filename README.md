@@ -31,7 +31,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <a href="https://www.figma.com/">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /><br/>Figma
       </a>
@@ -109,7 +109,7 @@
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite" /><br/>SQLite
       </a>
     </td>
-    <td align="center">
+    <td align="left">
       <a href="https://tailwindcss.com/">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" /><br/>Tailwind
       </a>
