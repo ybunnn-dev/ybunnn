@@ -12,7 +12,7 @@
 <p align="left">
   </p>
 <hr>
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="80">
       <a href="https://www.w3schools.com/cpp/">
