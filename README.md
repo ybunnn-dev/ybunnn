@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **Laravel, NextJS, ReactJS**
 - 📫 How to reach me **belaroivan17@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   </p>
 <table align="left">
