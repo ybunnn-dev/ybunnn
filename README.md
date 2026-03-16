@@ -82,7 +82,5 @@
 
   <img src="https://streak-stats.demolab.com?user=ybunnn-dev&theme=radical" alt="GitHub Streak" />
 
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=ybunnn-dev&theme=radical&no-bg=true" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybunnn-dev&theme=radical&area=true" alt="Activity Graph" />
 </div>
