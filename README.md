@@ -12,8 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   </p>
-
-<h3 align="left">Languages and Tools:</h3>
 <table align="left">
   <tr>
     <td align="center" width="80">
@@ -121,7 +119,7 @@
     </td>
     <td></td> </tr>
 </table>
-<div align="center">
+<div align="left">
 
   <img src="https://streak-stats.demolab.com?user=ybunnn-dev&theme=radical" alt="GitHub Streak" />
   <br />
